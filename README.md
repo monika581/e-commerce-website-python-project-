@@ -1,1 +1,2 @@
-# e-commerce-website-python-project-
+# e-commerce-website (python project)
+plant and its products selling website using Djange
