@@ -1,2 +1,2 @@
 # e-commerce-website (python project)
-plant and its products selling website using Djange
+plant and its products selling website using Django framework
